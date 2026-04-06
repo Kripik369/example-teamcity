@@ -7,12 +7,12 @@ public class Welcomer{
 		return "Welcome home, good hunter. What is it your desire?";
 	}
 	public String sayFarewell() {
-		return "Farewell, good hunter. May you find your worth in waking world.";
+		return "Farewell, good hunter. May you find your worth in waking world.hunter";
 	}
 	public String sayNeedGold(){
-		return "Not enough gold";
+		return "Not enough goldhunter";
 	}
 	public String saySome(){
-		return "something in the way";
+		return "something in the wayhunter";
 	}
 }
